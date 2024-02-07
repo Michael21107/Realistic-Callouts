@@ -29,3 +29,8 @@ This Code is UNSTABLE, And it has not been tested yet in the game.
 
 ## Terms
 You can use and edit this code to your liking. Don't ever claim it to be your own code, and provide credit if you are using this code for your project. You are not allowed to reupload the exact same code.
+
+
+
+
+Join My [**Discord**](https://discord.gg/d2Xs2f5faw).
