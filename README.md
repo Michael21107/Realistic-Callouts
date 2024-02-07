@@ -1,7 +1,7 @@
-8# Realistic Callouts (DISCONTINUED)
+# Realistic Callouts (DISCONTINUED)
 Realistic Callouts is an open-source project and will remain so.
 
-# Attention
+Attention
 This Code is UNSTABLE, And it has not been tested yet in the game.
 
 
