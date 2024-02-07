@@ -4,7 +4,7 @@ Realistic Callouts is an open-source project and will remain so.
 
 --------
 
- ## Requirements/dependencies
+ ## Requirements
 - LSPDFR 0.4.9 (or higher) <a href="https://www.lcpdfr.com/files/file/7792-lspd-first-response">Download here</a>
 - RagePluginHook 1.7 (or higher) <a href="https://ragepluginhook.net/Downloads.aspx">Download here</a>
 
@@ -19,12 +19,8 @@ Realistic Callouts is an open-source project and will remain so.
 
 ## Current Callouts
 - High-Speed Chase
-- Intoxicated Individual
-
---------
-
-## Support
-If you like my work, please consider Joining my [**Discord**](https://discord.gg/d2Xs2f5faw).
+- Intoxicated Individuas
+- MVA
 
 --------
 
