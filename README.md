@@ -1,7 +1,6 @@
 # Realistic Callouts (DISCONTINUED)
 Realistic Callouts is an open-source project and will remain so.
 
-ATTENTION - This CALLOUT is discontinued, and I will not be updating this pack anymore.
 
 --------
 
