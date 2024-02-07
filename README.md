@@ -1,6 +1,9 @@
 # Realistic Callouts (DISCONTINUED)
 Realistic Callouts is an open-source project and will remain so.
 
+# Attention
+This Code is UNSTABLE, And it has not been tested yet in the game.
+
 
 --------
 
@@ -19,10 +22,10 @@ Realistic Callouts is an open-source project and will remain so.
 
 ## Current Callouts
 - High-Speed Chase
-- Intoxicated Individuas
+- Intoxicated Individuals
 - MVA
 
 --------
 
 ## Terms
-You can use and edit this code to your liking. Don't ever claim it to be your own code, and provide credit if you are using this code for your project. You are not allowed to reupload the exact same code. This means you are now allowed to copy the classes for changing text for translations or dialogs.
+You can use and edit this code to your liking. Don't ever claim it to be your own code, and provide credit if you are using this code for your project. You are not allowed to reupload the exact same code. This means you are not allowed to copy and paste it and claim it as yours. 
