@@ -37,7 +37,6 @@ namespace RealisticCallouts
         private static void RegisterCallouts() //Register all your callouts here
         {
             Functions.RegisterCallout(typeof(callouts.HighSpeedChase));
-            //Functions.RegisterCallout(typeof(callouts.IntoxicatedIndividuals));
             Functions.RegisterCallout(typeof(callouts.PossableStolenVehicle));
             Functions.RegisterCallout(typeof(callouts.MVA));
 
