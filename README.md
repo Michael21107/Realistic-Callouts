@@ -22,10 +22,10 @@ This Code is UNSTABLE, And it has not been tested yet in the game.
 
 ## Current Callouts
 - High-Speed Chase
-- Intoxicated Individuals
+- Possible Stolen Vehicle
 - MVA
 
 --------
 
 ## Terms
-You can use and edit this code to your liking. Don't ever claim it to be your own code, and provide credit if you are using this code for your project. You are not allowed to reupload the exact same code.
+You can use and edit this code to your liking. Don't ever claim it to be your own, and provide credit if you use this code for your project. You are not allowed to reupload the exact same code.
