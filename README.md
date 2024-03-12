@@ -1,8 +1,8 @@
 # Realistic Callouts (DISCONTINUED)
-Realistic Callouts is an open-source project and will remain so.
+Realistic Callout is a plug for LSPDFR, and it is an open-source project and will remain open-source.
 
 Attention:
-This Code is UNSTABLE, And it has not been tested yet in the game.
+This Code may be UNSTABLE and yet has not been tested in the game.
 
 
 --------
