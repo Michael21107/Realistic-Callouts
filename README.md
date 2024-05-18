@@ -7,7 +7,7 @@ This Code may be UNSTABLE and yet has not been tested in the game.
 
 --------
 
- ## Requires
+ ## Requirements
 - [LSPDFR 0.4.9 (or higher)](https://www.lcpdfr.com/files/file/7792-lspd-first-response) and its requirements
 
 
