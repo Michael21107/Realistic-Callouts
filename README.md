@@ -1,4 +1,4 @@
-# Realistic Callouts (DISCONTINUED)
+# Realistic Callouts (PASSIVE MAINTENANCE)
 Realistic Callout is a plugin for LSPDFR, and it is an open-source project and will remain open-source.
 
 Attention:
@@ -7,15 +7,14 @@ This Code may be UNSTABLE and yet has not been tested in the game.
 
 --------
 
- ## Requirements
-- LSPDFR 0.4.9 (or higher) <a href="https://www.lcpdfr.com/files/file/7792-lspd-first-response">Download here</a>
-- RagePluginHook 1.7 (or higher) <a href="https://ragepluginhook.net/Downloads.aspx">Download here</a>
+ ## Requires
+- [LSPDFR 0.4.9 (or higher)](https://www.lcpdfr.com/files/file/7792-lspd-first-response) and its requirements
 
 
 --------
 
 ## This Plugin was built with:
-- <a href="https://ragepluginhook.net/Downloads.aspx">RagePluginHook</a>
+- <a href="https://discord.gg/ragepluginhook">RagePluginHook</a>
 - <a href="https://www.lcpdfr.com/files/file/7792-lspd-first-response">LSPD First Response</a>
 
 --------
@@ -27,5 +26,5 @@ This Code may be UNSTABLE and yet has not been tested in the game.
 
 --------
 
-## Terms
-You can use and edit this code to your liking. Don't ever claim it to be your own, and provide credit if you use this code for your project. You are not allowed to reupload the same code.
+## License
+This software is licensed under the [MIT license](https://github.com/TylerMathews78/Realistic-Callouts/tree/main?tab=readme-ov-file#).
