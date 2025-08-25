@@ -1,5 +1,5 @@
-# Realistic Callouts (PASSIVE MAINTENANCE)
-Realistic Callout is a plugin for LSPDFR, and it is an open-source project and will remain open-source.
+# Realistic Callouts by TylerMathews78
+Realistic Callout is a plugin for LSPDFR, and an open-source project that will remain open-source.
 
 Attention:
 This Code may be UNSTABLE and yet has not been tested in the game.
