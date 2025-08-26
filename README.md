@@ -1,8 +1,7 @@
-# Realistic Callouts by TylerMathews78
+# Realistic Callouts by TylerMathews78 (Recalled)
+
 Realistic Callout is a plugin for LSPDFR, and an open-source project that will remain open-source.
 
-Attention:
-This Code may be UNSTABLE and yet has not been tested in the game.
 
 
 --------
