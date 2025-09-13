@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -31,7 +31,7 @@ namespace RealisticCallouts
                     Game.Console.Print("[LOG]: Callouts and settings were loaded successfully.");
                     Game.Console.Print("[LOG]: The config file was loaded successfully.");
                     Game.Console.Print("[VERSION]: Detected Version: " + Assembly.GetExecutingAssembly().GetName().Version.ToString());
-                    Game.DisplayNotification("web_lossantospolicedept", "web_lossantospolicedept", "RealisticCallouts", "~y~v" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " ~o~by Tyler.M", "~b~successfully loaded Enjoy!");
+                    Game.DisplayNotification("web_lossantospolicedept", "web_lossantospolicedept", "RealisticCallouts", "~y~v" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " ~o~by #####", "~b~successfully loaded Enjoy!");
                 });
         }
         private static void RegisterCallouts() //Register all your callouts here
